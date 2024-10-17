@@ -18,3 +18,5 @@ for i in range(3):
     for j in range(3):
         print(matriz[i][j] ,end=" ")
     print()
+
+stand = int(input("Qual o nome do seu stand?"))
